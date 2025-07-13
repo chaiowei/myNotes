@@ -282,7 +282,7 @@
     </div>
 
     <script>
-        const WEBHOOK_URL = 'https://jerry-hsieh.app.n8n.cloud/webhook-test/generate-weekly-report';
+        const WEBHOOK_URL = 'https://jerry-hsieh.app.n8n.cloud/webhook/generate-weekly-report';
         
         // 設定上週日期範圍
         function setLastWeek() {
